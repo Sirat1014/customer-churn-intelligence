@@ -218,8 +218,6 @@ streamlit run app/dashboard.py
 
 ## Author
 
-## Author
-
 **Subhsirat Kaur Sehra**
 
 BSc Computer Science Graduate | Aspiring Machine Learning Engineer
