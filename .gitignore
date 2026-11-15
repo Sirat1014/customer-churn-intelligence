@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.pytest_cache/
+.streamlit/secrets.toml
+
+# Unused model artifacts
+models/logistic_regression.pkl
+models/random_forest.pkl
+models/xgboost.pkl
