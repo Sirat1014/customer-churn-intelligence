@@ -218,4 +218,10 @@ streamlit run app/dashboard.py
 
 ## Author
 
-Developed as a machine learning and data science portfolio project.
+## Author
+
+**Subhsirat Kaur Sehra**
+
+BSc Computer Science Graduate | Aspiring Machine Learning Engineer
+
+GitHub: [@Sirat1014](https://github.com/Sirat1014)
